@@ -1,5 +1,5 @@
 //uses an lambda to process events
-//Made an edit to test Git CMD
+//Made an edit to test Git Command line
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
